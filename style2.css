@@ -1,0 +1,71 @@
+/***************custom css-Rahul-1377****************/
+
+body {
+	background: #DDEBF9;
+}
+/***************part one****************/
+
+.block-lg {
+	height: 400px;
+	background-color: #2ECD71
+}
+
+.box_invisible {
+	height: 400px;
+}
+
+.block-xs {
+	height: 186px;
+}
+
+.mrg_top {
+	margin-top: 21px;
+}
+
+.mrg2_top {
+	margin-top: 27px;
+}
+
+.padding_left_right {
+	padding: 0 40px;
+}
+
+h3 {
+	padding-top: 185px;
+	color: aqua;
+	font-weight: bold;
+}
+
+h4 {
+	padding-top: 87px;
+	color: aqua;
+	font-weight: lighter;
+}
+
+.blue {
+	background-color: #3598DB;
+}
+
+.red {
+	background-color: #E84C3D;
+}
+
+.yellow {
+	background-color: #F2C311;
+}
+
+.violet {
+	background-color: #9A58B4;
+}
+/**************part two*****************/
+
+.bg-background {
+	background: #2ECD71;
+	margin: 0 10px 24px;
+}
+
+.bg-white {
+	background: #FFFFFF;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
