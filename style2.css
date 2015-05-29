@@ -68,4 +68,6 @@ h4 {
 	background: #FFFFFF;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}a:focus {
+	outline: none
 }
