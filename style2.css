@@ -71,3 +71,6 @@ h4 {
 }a:focus {
 	outline: none
 }
+.back_to_top a {
+	text-decoration: none;
+}
